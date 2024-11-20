@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Ram-Source-Web/react-user-management-app.git.github.io/user-management/static/css/main.6bfcaa11.css",
+    "main.js": "/Ram-Source-Web/react-user-management-app.git.github.io/user-management/static/js/main.5006a571.js",
+    "index.html": "/Ram-Source-Web/react-user-management-app.git.github.io/user-management/index.html",
+    "main.6bfcaa11.css.map": "/Ram-Source-Web/react-user-management-app.git.github.io/user-management/static/css/main.6bfcaa11.css.map",
+    "main.5006a571.js.map": "/Ram-Source-Web/react-user-management-app.git.github.io/user-management/static/js/main.5006a571.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6bfcaa11.css",
+    "static/js/main.5006a571.js"
+  ]
+}
